@@ -80,31 +80,31 @@ meaning can be harder to grasp for many readers not familiar with the violin plo
 
 ## Extrapolatory Data Analysis Observation
 
-1 – Our churn rate was very high (around 14.5%) and we need to do something to
+- Our churn rate was very high (around 14.5%) and we need to do something to
 decrease the value of churn rate.
-2- some states like New Jersey, California, Texas was showing high value of churn
+- Some states like New Jersey, California, Texas was showing high value of churn
 rate , so we need focus on operation inside this states .
-3 - Most customers who have international plan are churned. It could be because many of the
+-  Most customers who have international plan are churned. It could be because many of the
 plan might have been taken by tourists who churned once their tour is over.
-4 - Customer who didn’t have voice plan, they churned more
-5- Higher the number of minutes, higher are the chances of customer churning as 
+- Customer who didn’t have voice plan, they churned more
+- Higher the number of minutes, higher are the chances of customer churning as 
 high minutes used may be indicating towards high pay to bill.
-6- International minutes use was more in churned population than staying population.
-7 – Higher the number of customer call user has to make, then the more likely they
+- International minutes use was more in churned population than staying population.
+- Higher the number of customer call user has to make, then the more likely they
 are going to leave due to bad services.
 
 ## Conclusion
 
-1 - Company should introduce plan with proportionally reduce charges as amount oF usage increase.
+- Company should introduce plan with proportionally reduce charges as amount oF usage increase.
 It could be like be like combo offer where many services are available in combinationat 
 less price than each of them individually.
-2 - Company should also focus on their quality of services as users start to churn
+- Company should also focus on their quality of services as users start to churn
 with a greater number of customers service class. 
-3- Some states where churn is high like New Jersey, California, Texas, South
+- Some states where churn is high like New Jersey, California, Texas, South
 Carolina should receive company focus more and company should implement new
 strategy here which was successful instates where churn is quite low.
-4 - Company should try offer attractive voice plan offer to gain new users and
+- Company should try offer attractive voice plan offer to gain new users and
 retain them
-5- Company should offer better benefits with international plans to retain those
+- Company should offer better benefits with international plans to retain those
 users.
 
