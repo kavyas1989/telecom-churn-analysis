@@ -11,26 +11,26 @@ So, The main aim of this project is to investigating the main reasons for custom
 - Total number of rows in data : 3333
 - Total number of columns : 20(19 independent and 1 dependent colunn)
 - Our dataset has 8 columns with float d-type, 8 columns with int d-type ,and 4 columns with object d-type.
-● Churn: A binary identifier whether the customer has churned or not. -
-● State: State in which the customer lives in.
-● Account length: it is the no of days the account has been active.
-● Area code: An identifier to the area the customer lives in.
-● International plan: A binary identifier to whether the customer has opted for an international plan.
-● Voice mail plan: A binary identifier to whether the customer has opted for a voicemail plan.
-● Number Vmail messages: Number of voicemail messages sent or received.
-● Total day minutes: How much the customer has talked over phone in the daytime.
-● Total day calls: How many calls the customer has made over phone in the daytime.
-● Total day charge: How much money was charged to the customer in the daytime.
-● Total eve minutes: How much the customer has talked over phone in the evening.
-● Total eve calls: How many calls the customer has made over phone in the evening.
-● Total eve charge: How much money was charged to the customer in the evening.
-● Total night minutes: How much the customer has talked over phone in the night.
-● Total night calls: How many calls the customer has made over phone in the night
-● Total night charge: How much money was charged to the customer in the night.
-● Total intl minutes: How much the customer has talked over phone internationally.
-● Total intl calls: How many calls the customer has made over phone internationally.
-● Total intl charge: How much money was charged to the customer for international calls.
-● Customer service calls: How many service calls were made to the customer.
+- Churn: A binary identifier whether the customer has churned or not. -
+- State: State in which the customer lives in.
+- Account length: it is the no of days the account has been active.
+- Area code: An identifier to the area the customer lives in.
+- International plan: A binary identifier to whether the customer has opted for an international plan.
+- Voice mail plan: A binary identifier to whether the customer has opted for a voicemail plan.
+- Number Vmail messages: Number of voicemail messages sent or received.
+- Total day minutes: How much the customer has talked over phone in the daytime.
+- Total day calls: How many calls the customer has made over phone in the daytime.
+- Total day charge: How much money was charged to the customer in the daytime.
+- Total eve minutes: How much the customer has talked over phone in the evening.
+- Total eve calls: How many calls the customer has made over phone in the evening.
+- Total eve charge: How much money was charged to the customer in the evening.
+- Total night minutes: How much the customer has talked over phone in the night.
+- Total night calls: How many calls the customer has made over phone in the night
+- Total night charge: How much money was charged to the customer in the night.
+- Total intl minutes: How much the customer has talked over phone internationally.
+- Total intl calls: How many calls the customer has made over phone internationally.
+- Total intl charge: How much money was charged to the customer for international calls.
+- Customer service calls: How many service calls were made to the customer.
 
 ## Data Preprocessing
 
